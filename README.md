@@ -62,17 +62,13 @@ plt.xlabel("Predicted")
 plt.ylabel("Actual")
 plt.title("Confusion Matrix for SVM Spam Detection")
 plt.show()
-/*
-Program to implement the SVM For Spam Mail Detection..
-Developed by: Heamavarathan S
-RegisterNumber:  25005365
-*/
+
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: Sunil Kumar R
 RegisterNumber:  212225040440
 */
-```
+
 
 ## Output:
 <img width="816" height="624" alt="Screenshot 2026-03-17 231653" src="https://github.com/user-attachments/assets/7451192f-1d95-4470-8ba9-6dc16c88ee22" />
